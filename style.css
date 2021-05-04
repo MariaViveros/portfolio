@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Merriweather:wght@300;400;700&family=Permanent+Marker&display=swap');
+
+h2{
+	color: #d6a6be;
+	font-family: 'Caveat', cursive;
+}
+
+
+p{
+	font-family: 'Merriweather', serif;
+}
+
+
+h1{
+	font-size: 3em;
+	font-family: 'Caveat', cursive;
+	color: #d6a6be;
+}
+
+h3{
+	font-family: 'Merriweather', serif;
+}
+
+/* Navigation bar */
+
+nav{
+	text-align: center;
+	background-color: #d6a6be;
+}
+
+nav ul{
+	list-style-type: none;
+}
+nav li{
+	display: inline;
+	margin-left: 30px;
+}
+nav a{
+	font-family: 'Permanent Marker', cursive;
+	text-decoration: none;
+	padding-right: 10px;
+	font-size: 1.3em;
+}
+nav a:link{
+	color: #ebd1dc;
+}
+nav a:visited{
+	color: white;
+}
+nav a:hover{
+	color: gray;
+}
+nav a:active{
+	color: lightblue;
+}
+
+th{
+	background-color: #ff99cc;
+	color: white;
+	padding: 10px;
+}
+
+td{
+	padding: 10px;
+}
+
+td img{
+	height: 100px;
+	width: 100px;
+}
+
+table{
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+label{
+	float: left;
+	width: 8em;
+	padding-right: 1em;
+	color: gray;
+	margin-left: 3em;
+}
+
+input, textarea{
+	margin-bottom: 1em;
+	display: block;
+	padding: 5px;
+	background-color: #ffe6f2;
+	color: gray;
+	border: none;
+	border-radius: 3px;
+}
+
+form{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+li{
+	font-family: 'Merriweather', serif;
+}
+
+small{
+	font-family: 'Merriweather', serif;
+}
+
+footer{
+	background-color: #d6a6be;
+	color: white;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+footer a:link{
+	color: white;
+}
+footer a:visited{
+	color: #ebd1dc;
+}
+footer a:hover{
+	color: black;
+}
+footer a:active{
+	color: #7c3653;
+}
+
+#submit{
+	display: block;
+	background-color: lightgray;
+}
+
+.myimage{
+	text-align: center;
+	margin-top: 75px;
+}
+
+.myimg{
+	border-color: black;
+	border-style: solid;
+	border-width:5px;
+	border-radius: 10px;
+}
+
+.nav_line{
+	padding-top: 15px;
+}
+
+.text_main{
+	margin-top: 50px;
+}
+
+.logo{
+	margin: 0 auto;
+	display:block;
+}
+
+.header_logo{
+	background-color: #ebd1dc;
+}
+
+/*Class for embeded video*/
+.video{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+/*Class for embeded soundcloud*/
+.music{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+/*Class for games' buttons*/
+.gbutton{
+	margin: 20px;
+	border-radius: 15px;
+	height: 30px;
+	color: #ff0066;
+	background-color: #ffcce0;
+	border: none;
+	padding: 10px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.row{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.foot{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.resume{
+	margin-top: 50px;
+	padding-left: 50px; 
+	margin-bottom: 50px;
+}
+
+.table_title{
+	text-align: center;
+	margin-top: 30px;
+}
+
+.multi{
+	text-align: center;
+}
