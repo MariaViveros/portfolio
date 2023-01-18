@@ -14,3 +14,9 @@ This are some website links I've participated in their development:
 - https://rodolfocastellanos.com/
 
 - http://www.garciamallitz.com/
+
+### Maria Jose Viveros
+
+[LinkedIn](https://www.linkedin.com/in/mariaviveros/)
+
+Correo: majitohvg@gmail.com
