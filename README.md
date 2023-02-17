@@ -15,6 +15,12 @@ This are some website links I've participated in their development:
 
 - http://www.garciamallitz.com/
 
+- https://amuletumgame.com/
+
+- https://www.fimad.mx/marisatattoo.com/
+
+- http://standrew.com.mx
+
 ### Maria Jose Viveros
 
 [LinkedIn](https://www.linkedin.com/in/mariaviveros/)
